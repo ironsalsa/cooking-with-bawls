@@ -1,0 +1,13 @@
+{
+    "brand": "Cooking with Bawls",
+    "logo": "grapefruit.jpg",
+    "links": [{
+            "title": "Home",
+            "href": ""
+        },
+        {
+            "title": "Blog",
+            "href": "blog"
+        }
+    ]
+}

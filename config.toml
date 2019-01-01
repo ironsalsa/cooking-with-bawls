@@ -1,0 +1,4 @@
+baseURL = "http://cookingwithbawls.com/"
+languageCode = "en-us"
+title = "Cooking With Bawls"
+theme = "sodium"

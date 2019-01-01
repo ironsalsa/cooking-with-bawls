@@ -1,0 +1,9 @@
+{
+    "title": "Bawls in the kitchen",
+    "description": "Two ladies cooking, drinking, and eating.",
+    "images": ["dinner.jpg","foods.jpg","bacon.jpg"],
+    "button": {
+        "text": "Show me",
+        "href": "/blog"
+    }
+}
