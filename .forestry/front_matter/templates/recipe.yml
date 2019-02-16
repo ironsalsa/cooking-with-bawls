@@ -1,0 +1,30 @@
+---
+label: Recipe
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: name
+  label: Name
+  description: Name of blog entry
+  config:
+    required: true
+- type: file
+  label: Main Picture
+  name: pic-main
+  description: The showcased pic for the blog entry
+- type: image_gallery
+  name: gallery
+  label: Picture gallery
+  description: Additional pictures
+- type: datetime
+  name: date
+  label: Date
+  description: Date of creation
+  config:
+    required: true
+- type: tag_list
+  name: tags
+  label: Tags
+  description: Tag the entry for sorting
+  default: []
