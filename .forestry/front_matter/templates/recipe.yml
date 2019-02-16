@@ -28,3 +28,5 @@ fields:
   label: Tags
   description: Tag the entry for sorting
   default: []
+pages:
+- content/blog/test2.md
